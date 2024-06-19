@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.div2{
+    display: flex;
+    flex-direction: row;
+    padding-left: 35%;
+    padding-top: 5px;
+    padding-right: 30px;
+}
+
+.div2 h1{
+    padding-top: 20px;
+    padding-right: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.div3{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    padding-top:20px;
+    
+}
+
+#place{
+    height: 125px;
+    width: 1300px;
+    text-align: right;
+}
+
+img{
+    padding-right: 25px;
+}
+
+.div4 h3{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding-left: 20%;
+    padding-top: px;
+    padding-bottom: 10px;
+}
+
+.same1{
+    padding-left: 20%;
+    padding-top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+} /* 9,10 */
+
+table{
+    border-collapse: collapse;
+    width: 80%;
+}
+
+table,th,td{
+    border:1px solid black;
+}
+
+th,td{
+    padding: 8px;
+    text-align: left;
+}
+
+.div16{
+    padding-left: 20%;
+    padding-top: 20px;
+    font-size: 19px; /*office use */
+}
+
+.same{
+    padding-left: 20%;
+    padding-top: 20px;
+} /* 5,6,7,8,12*/
+
+.same2{
+    padding-left: 20%;
+    padding-top: 20px;
+    font-size: 15px; /*11,15,17,18 */    
+}
+
+.same3{
+    padding-left: 20%;
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: bold;/* 13,14*/
+}
